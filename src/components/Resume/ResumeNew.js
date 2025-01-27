@@ -56,3 +56,6 @@
 // // place holders FOR NOW
 
 // export default ResumeNew;
+
+
+// fixing the resume 
