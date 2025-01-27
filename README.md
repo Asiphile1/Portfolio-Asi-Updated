@@ -5,7 +5,7 @@
 This Portfolio App is a React-based web application that serves as a personal showcase of skills, projects, and a downloadable CV. The app features a responsive design, a dynamic particle background, and integrates PDF viewing functionality to preview and download your resume directly from the website.
 
 
-you can view a demo of the app here: 
+you can view a demo of the app here: https://portfolio-asi-updated.vercel.app/
 
 ##  Features
 
